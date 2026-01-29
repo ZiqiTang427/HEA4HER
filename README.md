@@ -69,6 +69,8 @@ Predictions are intended for trend-based screening, not exact activity values.
 
 Stability screening is based on empirical solid-solution criteria, not CALPHAD or DFT.
 
+Thermodynamic screening was applied prior to machine learning; the screening criterion is described in the paper, while the specific implementation is not included in this repository.
+
 
 
 Contact
